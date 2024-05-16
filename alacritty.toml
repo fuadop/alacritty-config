@@ -1,0 +1,28 @@
+import = [
+	'~/.config/alacritty/themes/themes/gruvbox_material_hard_dark.toml'
+]
+
+live_config_reload = true
+shell.args = ["new", "-A", "-s", "root"]
+shell.program = "/opt/homebrew/bin/tmux"
+
+[window]
+dimensions.lines = 30
+dimensions.columns = 80
+
+padding.x = 3
+padding.y = 0
+dynamic_padding = false
+
+title = ":)"
+dynamic_title = true
+
+[font]
+size = 10
+
+normal.style = "Regular"
+normal.family = "Hasklug Nerd Font Mono"
+
+[mouse]
+hide_when_typing = true
+
