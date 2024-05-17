@@ -21,7 +21,10 @@ dynamic_title = true
 size = 10
 
 normal.style = "Regular"
-normal.family = "JetBrainsMono Nerd Font"
+normal.family = "Hasklug Nerd Font"
+
+bold.style = "SemiBold"
+bold_italic.style = "SemiBold Italic"
 
 [mouse]
 hide_when_typing = true
