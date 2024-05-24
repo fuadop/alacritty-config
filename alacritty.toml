@@ -1,5 +1,5 @@
 import = [
-	'~/.config/alacritty/themes/themes/gruvbox_dark.toml'
+	'~/.config/alacritty/base16/colors/base16-black-metal-nile.toml'
 ]
 
 live_config_reload = true
