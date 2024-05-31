@@ -17,6 +17,12 @@ dynamic_padding = false
 title = ":)"
 dynamic_title = true
 
+opacity = 0.9
+decorations = "None"
+
+[colors]
+transparent_background_colors = true
+
 [font]
 size = 10
 
