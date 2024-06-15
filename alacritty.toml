@@ -1,5 +1,5 @@
 import = [
-	'~/.config/alacritty/base16/colors/base16-black-metal-nile.toml'
+	'~/.config/alacritty/themes/themes/gruvbox_dark.toml'
 ]
 
 live_config_reload = true
@@ -29,4 +29,7 @@ bold_italic.style = "SemiBold Italic"
 
 [mouse]
 hide_when_typing = true
+
+[cursor]
+unfocused_hollow = true
 
